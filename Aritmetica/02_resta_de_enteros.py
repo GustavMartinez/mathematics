@@ -12,7 +12,7 @@
 x = 10
 y = 2
 
-print(f"La resta de {x} y {y} es: {x-2}")
+print(f"La resta de {x} y {y} es: {x-y}")
 
 # Resta de dos números enteros
 
